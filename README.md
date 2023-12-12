@@ -16,6 +16,7 @@ To view the countdown website:
 ## Customization
 
 Feel free to customize the website:
+
 1.Modify styles in style.css to change countdown appearance or add design elements.
 
 2.Adjust JavaScript in script.js to alter the countdown duration or implement additional features
