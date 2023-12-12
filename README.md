@@ -10,7 +10,7 @@ To view the countdown website:
  Clone the repository or download the files locally:
 
    ```bash
-   git clone https://github.com/your-username/new-year-countdown.git
+   git clone https://github.com/SanathS0S/CountDownTimer.git
    ```
 
 ## Customization
